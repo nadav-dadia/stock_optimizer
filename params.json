@@ -4,7 +4,7 @@
     "end_date": "2023-01-01",
     "sma_period": 35,
     "rsi_period": 14,
-    "rsi_buy": 55,
-    "rsi_sell": 45,
-    "vol_period": 10
+    "rsi_buy": 65,
+    "rsi_sell": 40,
+    "vol_period": 100
 }
